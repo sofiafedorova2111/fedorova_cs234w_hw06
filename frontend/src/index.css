@@ -65,3 +65,14 @@ li {
   border-radius: 8px;
   border: 1px solid #c9d9f0;
 }
+
+a{
+  text-decoration:none;
+  color:#1f3c88;
+  font-size:15px;
+  
+}
+a:hover{
+  color:black;
+  font-weight:bold;
+}
